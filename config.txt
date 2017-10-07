@@ -1,0 +1,4 @@
+token=Put token here
+prefix=self.
+timezone=
+status=IDLE
